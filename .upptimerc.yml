@@ -3,8 +3,8 @@ owner: aribatturan # Your GitHub organization or username, where this repository
 repo: hcdev # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: kahve.com
+    url: https://www.kahve.com
   - name: borataktik
     url: https://www.borataktik.com
   - name: ideasoft test site
