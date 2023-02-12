@@ -22,19 +22,19 @@
     "url": "https://www.borataktik.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.borataktik.com.ico",
     "slug": "borataktik",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1806,
-    "timeDay": 3543,
-    "timeWeek": 1806,
-    "timeMonth": 1806,
-    "timeYear": 1806,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1791,
+    "timeDay": 2607,
+    "timeWeek": 1791,
+    "timeMonth": 1791,
+    "timeYear": 1791,
     "dailyMinutesDown": {
-      "2023-02-12": 0
+      "2023-02-12": 11
     }
   },
   {
