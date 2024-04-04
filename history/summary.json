@@ -10,11 +10,11 @@
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.79%",
-    "time": 2929,
-    "timeDay": 1897,
-    "timeWeek": 2050,
-    "timeMonth": 2103,
-    "timeYear": 2705,
+    "time": 2928,
+    "timeDay": 2433,
+    "timeWeek": 2088,
+    "timeMonth": 2120,
+    "timeYear": 2690,
     "dailyMinutesDown": {
       "2024-03-29": 55,
       "2024-02-16": 146,
@@ -32,8 +32,7 @@
       "2023-06-05": 49,
       "2023-06-01": 16,
       "2023-04-26": 22,
-      "2023-04-08": 28,
-      "2023-04-05": 94
+      "2023-04-08": 28
     }
   },
   {
@@ -47,11 +46,11 @@
     "uptimeWeek": "98.28%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.30%",
-    "time": 2226,
-    "timeDay": 1076,
-    "timeWeek": 1403,
-    "timeMonth": 1491,
-    "timeYear": 2175,
+    "time": 2225,
+    "timeDay": 1195,
+    "timeWeek": 1412,
+    "timeMonth": 1486,
+    "timeYear": 2176,
     "dailyMinutesDown": {
       "2024-04-03": 173,
       "2024-02-16": 146,
@@ -67,8 +66,7 @@
       "2023-06-16": 18,
       "2023-06-08": 114,
       "2023-04-08": 1102,
-      "2023-04-07": 166,
-      "2023-04-05": 93
+      "2023-04-07": 166
     }
   },
   {
@@ -77,16 +75,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ops.ideasoft.dev.ico",
     "slug": "ideasoft-test-site",
     "status": "up",
-    "uptime": "97.50%",
+    "uptime": "97.51%",
     "uptimeDay": "97.77%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "97.34%",
-    "time": 1488,
-    "timeDay": 848,
-    "timeWeek": 707,
-    "timeMonth": 647,
-    "timeYear": 1542,
+    "time": 1487,
+    "timeDay": 859,
+    "timeWeek": 711,
+    "timeMonth": 652,
+    "timeYear": 1535,
     "dailyMinutesDown": {
       "2024-04-03": 32,
       "2024-02-16": 146,
@@ -125,8 +123,7 @@
       "2023-06-08": 203,
       "2023-06-05": 33,
       "2023-06-01": 15,
-      "2023-04-26": 21,
-      "2023-04-05": 93
+      "2023-04-26": 21
     }
   }
 ]
