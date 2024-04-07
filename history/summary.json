@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kahve.com.ico",
     "slug": "kahve-com",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.80%",
-    "time": 2927,
-    "timeDay": 2682,
-    "timeWeek": 2172,
-    "timeMonth": 2121,
-    "timeYear": 2685,
+    "time": 2925,
+    "timeDay": 2356,
+    "timeWeek": 2250,
+    "timeMonth": 2124,
+    "timeYear": 2683,
     "dailyMinutesDown": {
       "2024-03-29": 55,
       "2024-02-16": 146,
@@ -31,8 +31,7 @@
       "2023-06-06": 16,
       "2023-06-05": 49,
       "2023-06-01": 16,
-      "2023-04-26": 22,
-      "2023-04-08": 28
+      "2023-04-26": 22
     }
   },
   {
@@ -41,16 +40,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.borataktik.com.ico",
     "slug": "borataktik",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.28%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.32%",
-    "time": 2223,
-    "timeDay": 1935,
-    "timeWeek": 1453,
-    "timeMonth": 1490,
-    "timeYear": 2176,
+    "time": 2222,
+    "timeDay": 1627,
+    "timeWeek": 1434,
+    "timeMonth": 1492,
+    "timeYear": 2177,
     "dailyMinutesDown": {
       "2024-04-03": 173,
       "2024-02-16": 146,
@@ -64,8 +63,7 @@
       "2023-07-02": 151,
       "2023-06-22": 36,
       "2023-06-16": 18,
-      "2023-06-08": 114,
-      "2023-04-08": 1102
+      "2023-06-08": 114
     }
   },
   {
@@ -79,10 +77,10 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "97.36%",
-    "time": 1485,
-    "timeDay": 1005,
-    "timeWeek": 744,
-    "timeMonth": 651,
+    "time": 1483,
+    "timeDay": 688,
+    "timeWeek": 763,
+    "timeMonth": 648,
     "timeYear": 1537,
     "dailyMinutesDown": {
       "2024-04-03": 32,
