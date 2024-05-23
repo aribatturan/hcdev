@@ -4,7 +4,7 @@
     "url": "https://www.kahve.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kahve.com.ico",
     "slug": "kahve-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "97.42%",
     "uptimeWeek": "99.63%",
@@ -14,7 +14,7 @@
     "timeDay": 1866,
     "timeWeek": 2013,
     "timeMonth": 2030,
-    "timeYear": 2594,
+    "timeYear": 2598,
     "dailyMinutesDown": {
       "2024-05-23": 37,
       "2024-03-29": 55,
