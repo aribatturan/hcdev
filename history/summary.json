@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.80%",
     "time": 3086,
-    "timeDay": 1953,
-    "timeWeek": 3715,
-    "timeMonth": 3095,
+    "timeDay": 1920,
+    "timeWeek": 3739,
+    "timeMonth": 3098,
     "timeYear": 3356,
     "dailyMinutesDown": {
       "2024-10-23": 40,
@@ -41,11 +41,11 @@
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "97.69%",
-    "time": 1439,
-    "timeDay": 603,
-    "timeWeek": 689,
-    "timeMonth": 713,
-    "timeYear": 1229,
+    "time": 1437,
+    "timeDay": 601,
+    "timeWeek": 688,
+    "timeMonth": 714,
+    "timeYear": 1226,
     "dailyMinutesDown": {
       "2024-11-14": 17,
       "2024-11-09": 51,
@@ -74,15 +74,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ops.ideasoft.dev.ico",
     "slug": "ideasoft-test-site",
     "status": "up",
-    "uptime": "98.24%",
+    "uptime": "98.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
-    "time": 1919,
-    "timeDay": 710,
-    "timeWeek": 653,
-    "timeMonth": 660,
+    "time": 1917,
+    "timeDay": 685,
+    "timeWeek": 664,
+    "timeMonth": 665,
     "timeYear": 2041,
     "dailyMinutesDown": {
       "2024-10-04": 122,
@@ -114,8 +114,7 @@
       "2024-01-18": 23,
       "2024-01-03": 24,
       "2023-12-23": 17,
-      "2023-12-07": 30,
-      "2023-11-16": 20
+      "2023-12-07": 30
     }
   }
 ]
