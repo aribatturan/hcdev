@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 3080,
-    "timeDay": 3046,
-    "timeWeek": 2220,
-    "timeMonth": 2559,
-    "timeYear": 3368,
+    "time": 3081,
+    "timeDay": 2977,
+    "timeWeek": 2322,
+    "timeMonth": 2602,
+    "timeYear": 3369,
     "dailyMinutesDown": {
       "2024-10-23": 40,
       "2024-10-10": 19,
@@ -36,16 +36,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.borataktik.com.ico",
     "slug": "borataktik",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "97.69%",
     "time": 1355,
-    "timeDay": 736,
-    "timeWeek": 633,
-    "timeMonth": 683,
-    "timeYear": 1203,
+    "timeDay": 878,
+    "timeWeek": 660,
+    "timeMonth": 691,
+    "timeYear": 1201,
     "dailyMinutesDown": {
       "2024-11-14": 17,
       "2024-11-09": 51,
@@ -80,9 +80,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.40%",
     "time": 2021,
-    "timeDay": 751,
-    "timeWeek": 641,
-    "timeMonth": 2718,
+    "timeDay": 797,
+    "timeWeek": 649,
+    "timeMonth": 2721,
     "timeYear": 2198,
     "dailyMinutesDown": {
       "2024-11-15": 95,
@@ -114,8 +114,7 @@
       "2024-01-19": 105,
       "2024-01-18": 23,
       "2024-01-03": 24,
-      "2023-12-23": 17,
-      "2023-12-07": 30
+      "2023-12-23": 17
     }
   }
 ]
