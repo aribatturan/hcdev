@@ -1,7 +1,7 @@
 url: https://www.kahve.com
-status: down
-code: 504
-responseTime: 20500
-lastUpdated: 2025-09-29T13:06:21.084Z
+status: up
+code: 200
+responseTime: 1296
+lastUpdated: 2025-09-29T13:37:39.521Z
 startTime: 2023-02-06T11:46:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
