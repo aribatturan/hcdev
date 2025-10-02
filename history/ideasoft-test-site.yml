@@ -1,7 +1,7 @@
 url: https://ops.ideasoft.dev
-status: up
-code: 200
-responseTime: 1716
-lastUpdated: 2025-10-02T10:35:08.909Z
+status: down
+code: 504
+responseTime: 20688
+lastUpdated: 2025-10-02T11:21:42.374Z
 startTime: 2023-02-06T11:31:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
