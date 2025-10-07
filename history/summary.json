@@ -4,17 +4,17 @@
     "url": "https://www.kahve.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kahve.com.ico",
     "slug": "kahve-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "87.43%",
+    "uptimeDay": "87.42%",
     "uptimeWeek": "94.00%",
     "uptimeMonth": "97.17%",
-    "uptimeYear": "99.32%",
-    "time": 4629,
-    "timeDay": 6708,
-    "timeWeek": 9232,
-    "timeMonth": 8542,
-    "timeYear": 4693,
+    "uptimeYear": "99.33%",
+    "time": 4617,
+    "timeDay": 6360,
+    "timeWeek": 9108,
+    "timeMonth": 8490,
+    "timeYear": 4687,
     "dailyMinutesDown": {
       "2025-10-07": 35,
       "2025-10-06": 147,
@@ -68,7 +68,7 @@
       "2025-02-21": 32,
       "2025-02-20": 15,
       "2025-01-10": 54,
-      "2024-12-30": 49
+      "2024-12-30": 22
     }
   },
   {
