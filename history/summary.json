@@ -113,17 +113,17 @@
     "url": "https://ops.ideasoft.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ops.ideasoft.dev.ico",
     "slug": "ideasoft-test-site",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "46.28%",
-    "uptimeWeek": "92.33%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "46.27%",
+    "uptimeWeek": "92.32%",
     "uptimeMonth": "95.92%",
-    "uptimeYear": "99.12%",
-    "time": 3901,
-    "timeDay": 11463,
-    "timeWeek": 9010,
-    "timeMonth": 9052,
-    "timeYear": 4349,
+    "uptimeYear": "99.14%",
+    "time": 3927,
+    "timeDay": 11910,
+    "timeWeek": 9448,
+    "timeMonth": 9122,
+    "timeYear": 4375,
     "dailyMinutesDown": {
       "2025-10-17": 443,
       "2025-10-16": 331,
@@ -172,7 +172,7 @@
       "2025-01-02": 30,
       "2024-12-18": 21,
       "2024-12-12": 17,
-      "2024-11-15": 95
+      "2024-11-15": 26
     }
   }
 ]
