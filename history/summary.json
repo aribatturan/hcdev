@@ -4,18 +4,19 @@
     "url": "https://www.kahve.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kahve.com.ico",
     "slug": "kahve-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.75%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "99.31%",
-    "time": 4231,
-    "timeDay": 1071,
-    "timeWeek": 947,
-    "timeMonth": 1374,
-    "timeYear": 4563,
+    "uptimeYear": "99.32%",
+    "time": 4229,
+    "timeDay": 726,
+    "timeWeek": 919,
+    "timeMonth": 1352,
+    "timeYear": 4557,
     "dailyMinutesDown": {
+      "2025-11-11": 0,
       "2025-11-08": 27,
       "2025-11-07": 26,
       "2025-11-05": 64,
@@ -69,8 +70,7 @@
       "2025-03-24": 33,
       "2025-03-22": 22,
       "2025-02-28": 20,
-      "2025-02-22": 20,
-      "2025-02-21": 32
+      "2025-02-22": 20
     }
   },
   {
@@ -114,18 +114,19 @@
     "url": "https://ops.ideasoft.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ops.ideasoft.dev.ico",
     "slug": "ideasoft-test-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.75%",
     "uptimeMonth": "97.72%",
     "uptimeYear": "99.12%",
-    "time": 3939,
-    "timeDay": 811,
-    "timeWeek": 807,
-    "timeMonth": 4876,
-    "timeYear": 4360,
+    "time": 3938,
+    "timeDay": 689,
+    "timeWeek": 795,
+    "timeMonth": 4814,
+    "timeYear": 4354,
     "dailyMinutesDown": {
+      "2025-11-11": 0,
       "2025-11-08": 27,
       "2025-11-07": 26,
       "2025-11-05": 65,
@@ -173,7 +174,7 @@
       "2025-01-25": 105,
       "2025-01-23": 17,
       "2025-01-11": 46,
-      "2025-01-10": 246
+      "2025-01-10": 225
     }
   }
 ]
